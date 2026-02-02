@@ -1,2 +1,2 @@
 # Java
-Estudando Java na Maratona Java do canal DevDojo
+Estudando Java com "Maratona Java" do canal DevDojo.
